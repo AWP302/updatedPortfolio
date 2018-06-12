@@ -1,0 +1,26 @@
+body {
+    background-color: slategrey;
+}
+
+.navbar {
+
+    background-color: blue;
+    color: black;
+}
+
+footer {
+    background-color: aquamarine;
+    color: black;
+    text-align: center;
+}
+
+body {
+
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+
+
+
+
