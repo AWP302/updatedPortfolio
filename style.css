@@ -1,26 +1,36 @@
 body {
-    background-color: slategrey;
+    background-color: rgba(248, 248, 242, 0.959);
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-family: Roboto;
 }
 
-.navbar {
+.navbar.navbar-light.bg-light,
+footer {
 
-    background-color: blue;
-    color: black;
+    background-color:rgb(229, 235, 224)!important;
+    color: black!important;
+   
 }
 
 footer {
-    background-color: aquamarine;
-    color: black;
-    text-align: center;
-}
-
-body {
-
-    margin-left: 30px;
-    margin-right: 30px;
+        text-align: center;
 }
 
 
+ul {
+    list-style-type: none;
+    font-size: 20px;
+  }
 
+.navbar-brand.mb-0.h1 {
+      font-size: 50px;
+            
+  }
 
+.card-img-top {
+    height: 200px;
+    width: 225px;
+}
 
